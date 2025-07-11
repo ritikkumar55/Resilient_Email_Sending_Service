@@ -1,6 +1,6 @@
 # 📧 Resilient Email Sending Service
 
-A robust and fault-tolerant email sending service built using **Node.js** and **Express.js**, featuring retry logic, provider fallback, idempotency, rate limiting, and status tracking — all powered by mock email providers.
+A robust and fault-tolerant email sending service built using **Javascript** and **Express.js**, featuring retry logic, provider fallback, idempotency, rate limiting, and status tracking — all powered by mock email providers.
 
 > 🔗 **Live API**: [https://resilient-email-sending-service-6rum.onrender.com](https://resilient-email-sending-service-6rum.onrender.com)
 
